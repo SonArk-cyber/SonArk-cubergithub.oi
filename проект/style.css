@@ -1,0 +1,51 @@
+.logo{
+    width: 100px;
+}
+body{   
+    color: rgb(65, 54, 45);  
+    background-image: url(кот-за-компьютером.jpg);
+    background-size: cover;
+}
+.header{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 70px;
+    color: rgb(63, 50, 40);
+    text-shadow: 5px 10px 10px rgb(65, 52, 41);
+}
+.logo:hover{
+    width: 200px;
+}
+.desk_os{
+    border: 3px solid rgba(247, 188, 149, 0.452);
+    border-radius: 20px;
+    background-color: rgba(143, 111, 96, 0.418);
+    box-shadow: 5px 10px 5px rgb(85, 65, 50);
+    width: 35%;
+}
+.mob_os{
+    border: 3px solid rgb(228, 180, 149);
+    border-radius: 20px;
+    background-color: rgba(128, 97, 83, 0.459);
+    box-shadow: 5px 10px 5px rgb(85, 65, 50);
+    width: 35%;
+}
+.serv_os{
+    border: 3px solid rgb(228, 180, 149);
+    border-radius: 20px;
+    background-color: rgba(143, 111, 96, 0.397);
+    box-shadow: 5px 10px 5px rgb(85, 65, 50);
+    width: 35%;
+}
+.general {
+width: 50%;
+background-color: rgba(128, 97, 83, 0.459);
+border-radius: 20px;
+background-image: linear-gradient(#a06d55d5, #836348);
+box-shadow: 5px 10px 5px rgb(85, 65, 50);
+}
+.btn_os{
+    width: 100px;
+    background-color: rgb(114, 88, 66);
+    text-decoration: none;
+}
+    
